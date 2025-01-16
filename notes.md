@@ -82,10 +82,6 @@ user_name.
 `pwd` Prints the current working directory's full path
 
 Option Long Option Description
--a --all List all files, even those with names that begin
-with a period, which are normally not listed
-(that is, hidden).
-
 `-a`, `--all` List all files, even those with names that begin
 with a period, which are normally not listed
 (that is, hidden).
