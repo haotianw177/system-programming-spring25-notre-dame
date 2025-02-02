@@ -10,7 +10,7 @@
 
 on the top of the file, shabang: `@#!/bin/sh` tell the OS how to interpreter this file, on the top of the file, shabang congrol how that program is interpreteed.
 
-you need to export encironemnt variable for shell script first, if you remove the variable, shell script return empty string access an variable does not exist. it does not return an error, which is tricky.
+you need to export environemnt variable for shell script first, if you remove the variable, shell script return empty string access an variable does not exist. it does not return an error, which is tricky.
 
 Shell:
 
