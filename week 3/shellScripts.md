@@ -72,7 +72,7 @@ echo FIle does not exist!
 
 fi
 
-reriect eeor message as well
+reriect error message as well
 
 chmod + x ./exists.sh
 
