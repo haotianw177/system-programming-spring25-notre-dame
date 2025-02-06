@@ -121,7 +121,7 @@ else
 	 check_file "$argument"
  done
 
-you should double quotes your variable for good practice, you can then group them ?
+you should double quotes your variable for good practice, you can then group them?
 ```
 
 ```python
