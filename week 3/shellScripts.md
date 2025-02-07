@@ -98,7 +98,7 @@ export PATH
 
 check the exit code of prirevous command: `echo $?`, if return 0 file exist(success), non 0 means failure
 
-- rediret out put to throw it away  `> / dev/null 2>&1`, redirect stdout to stdin? why it need 2>&1, redirect stdir out first.
+- redirect out put to throw it away  `> / dev/null 2>&1`, redirect stdout to stdin? why it need 2>&1, redirect stdir out first.
 - use `stat` and `test` to see if a file exist: `test -e [hello.sh](http://hello.sh)` , test by default don’t print anything, just `echo$?`, you can use`[ ]` to call test comamnd: `if [ -e hello.sh ]; then`
 
 ```python
