@@ -42,7 +42,7 @@ curly braces around variable also works, you don’t have to
 
 case $Name in
 
-mayleen) GREETING=heelo ;;
+mayleen) GREETING=hello ;;
 
 victoria|tori)  GREETING=hola ;;
 
