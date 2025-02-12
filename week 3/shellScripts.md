@@ -4,7 +4,7 @@
 
 `tmus`: it does not lose you work even if you close your computer, `tmus attach`
 
-`vim hello.sh`, to print. echo “” he;llo world”. `chmod + x hello.sh`, make the file exectuable
+`vim hello.sh`, to print. echo “” hello world”. `chmod + x hello.sh`, make the file exectuable
 
 `sh hello.sh`, is an interpreter, `bash`is also interpreter.  `Bash is more complex than SH`
 
