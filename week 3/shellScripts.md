@@ -20,7 +20,7 @@ echo”Hell0,$Name!”
 
 case $Name in
 
-mayleen) GREETING=heelo ;;
+mayleen) GREETING=hello ;;
 
 victoria)  GREETING=hola ;;
 
