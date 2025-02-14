@@ -16,7 +16,7 @@ Shell:
 
 NAME=$(NAME:-Anonymous)
 
-echo”Hell0,$Name!”
+echo”Hall0,$Name!”
 
 case $Name in
 
