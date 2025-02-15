@@ -44,7 +44,7 @@ case $Name in
 
 mayleen) GREETING=hello ;;
 
-victoria|tori)  GREETING=hola ;;
+victoria|tori)  GREETING=holaa ;;
 
 *) GREETING=hi;;
 
